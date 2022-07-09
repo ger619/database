@@ -2,9 +2,9 @@
 
 # Vet Clinic SQL Database
 
-This is a Cryptocurrencies Details Web App
+This is a VET PSQL table
 
-> In this app, you can get all cryptocurrencies available for display.
+> In this SQL it contains queries and updates
 
 ## Features
 
